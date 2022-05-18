@@ -1,0 +1,72 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body, .bg-dark {
+    background: linear-gradient(90deg, #af9888 21px, transparent 1%) center, linear-gradient(#80766e 21px, transparent 1%) center, #2e1212;
+    background-size: 22px 22px;
+  }
+
+.navbar-brand{
+    font-size: 5rem;
+    color:rgb(235, 222, 222);
+    font-family: 'Cookie', cursive;
+    font-family: 'Arsenal', sans-serif;
+}
+.navbar-brand:hover{
+    color: rgb(49, 42, 8);
+}
+.nav-link{
+    margin-right: 10px;
+    margin-left: 10px;
+    color: rgb(3, 36, 25) !important;
+    text-transform: uppercase;
+    
+}
+.nav-link:hover{
+    color: black;
+}
+.img{
+    height: 62px;
+    width: 72px;
+    border-radius: 50px;
+}
+/* .main{
+    background:url(./bg.jpg)no-repeat;
+    background-size: cover;
+    height: 100vh;
+    background-position: 50% 50%;
+    width: 100%;
+} */
+.btn1{
+    height: 55px;
+    width: 20%;
+    background-color: rgb(145, 129, 110);
+    outline: none;
+    border-radius: 60px;
+    color: rgb(243, 235, 236);
+    font-weight: 700;
+    
+    /* position:absolute; right:80px; top:250px */
+   
+}
+.btn1:hover{
+    background-color:rgb(245, 237, 237);
+  color: rgb(36, 14, 14);
+}
+.donate-card-section, .form {
+   
+    padding: 10vh;
+    width: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-family: 'Cookie', cursive;
+    font-family: 'Arsenal', sans-serif;
+    color : rgb(1, 14, 11);
+}
+
+
+
