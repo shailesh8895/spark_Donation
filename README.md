@@ -3,7 +3,7 @@
 
 The Sparks Foundation Internship Project:PAYMENT GATEWAY INTEGRATION
  
-This will b simple Donate button on Homepage, On clicking Doante button the user will be land on Payment page where user can select amount and payment type. 
+This will be simple Donate button on Homepage, On clicking Donate button the user will be land on Payment page where user can select amount and payment type. 
 
 **TECHNOLOGY STACK:**
 
